@@ -1,0 +1,15 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/operation/operation",
+    "pages/houseLease/houseLease",
+    "pages/business/business",
+    "pages/wode/wode"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#C9C9C9",
+    "navigationBarTitleText": "主页",
+    "navigationBarTextStyle":"white"
+  }
+}

@@ -1,0 +1,28 @@
+<view class='cont'>
+  <!--<view class='footer_box'>
+    <footer class="flex flex-box flex-space footer_box"></footer>
+  </view>-->
+  <view class='help'></view>
+  <view class='czzl'>操作指南</view>
+  <view class='c333333 cont_text'>
+    <view>一、该假数据备份加速度。</view>
+    <view>二、是的蝙蝠包U盾毕竟阿虎将被冻结好费劲呢发货看来你是服了你否奋斗。</view>
+    <view>三、是你电话看来是你的基本按时发空间会计年度吧是。</view>
+    <view>四、是你的就好父母 房价今年开始减肥吧看见电脑卡了看看火车 十多年房价 。</view>
+    <view>五、巴鲁夫啊建设的步伐子办事处将被冻结是你你上档次就。</view>
+    <view>六、爱是累积金交汇处那就是地方 开车阿斯顿发出。</view>
+    <view>七、等级沙发那是多久发货上传你今年才看见 是的妇女节承诺将保持阿萨德基础句。   </view>
+  </view>
+  <navigator url="/page/index/index" open-type="navigateBack" hover-class="other-navigator-hover"><view class='czzl'>已了解</view></navigator>
+</view>
+<view class='footer flex flex-space flex-centers'>
+  <view class="flex flex-box flex-column flex-center" bindtap='myread'>
+    <image src='../../images/u17.png' class='imgfooter'></image>
+    <text>主页</text>
+  </view>
+  <view class='line'></view>
+  <view class="flex flex-box flex-column flex-center" bindtap='mybuy'>
+    <image src='../../images/u18.png' class='imgfooter'></image>
+    <text class='c434343'>我的</text>
+  </view>
+</view>
